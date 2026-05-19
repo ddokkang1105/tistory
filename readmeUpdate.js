@@ -3,9 +3,9 @@ import Parser from "rss-parser";
 
 // ----- [1] 고정 영역: 자기소개, 기술 스택 등으로 커스텀 -----
 const staticContent = `
-# Hi there 👋
+# 안녕하세요. ddokkang 입니다.
 
-이 부분을 커스텀
+
 
 ## 📕 Latest Blog Posts
 `;
